@@ -227,6 +227,7 @@ button:active {
     .active {
         color: #000;
         background-color: inherit;
+        text-decoration: underline;
     }
     #navigation ul li:hover ul {
       display: block;
@@ -239,6 +240,9 @@ button:active {
     }
     #navigation ul ul li {
       display: block;
+    }
+    #naviation .login {
+      float: right;
     }
     footer {
       position: absolute;
