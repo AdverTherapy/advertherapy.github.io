@@ -36,12 +36,12 @@ button {
 
 .cta-green {
     background: #56565f;
-    color: #a2abab;
+    color: #ffffff;
 }
 
 .cta-green:hover {
     color: #ffffff;
-    background: #a2abab;
+    background: #56565f;
 }
 
 .cta-blue {
@@ -116,13 +116,13 @@ button {
 }
 
 #contact form {
-    color: #a2abab;
+    color: #56565f;
 }
 
 #contact form input,
 #contact form textarea {
     background: transparent;
-    border: 1px solid #a2abab;
+    border: 1px solid #56565f;
     color: #ffffff;
 }
 
