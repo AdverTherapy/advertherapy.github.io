@@ -84,11 +84,11 @@ button {
 }
 
 #feature-first {
-    background: linear-gradient(168deg, #ffffff 55%, #a2abab 0);
+    background: linear-gradient(180deg, #ffffff 55%, #a2abab 0);
 }
 
 #feature-last {
-    background: #56565f;
+    background: #a2abab;
 }
 
 /********** price table **********/
