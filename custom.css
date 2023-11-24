@@ -55,13 +55,13 @@ button {
 }
 
 .cta-ghost {
-    border: 2px solid #192440 !important;
-    color: #a2abab;
+    border: 2px solid #56565f !important;
+    color: #ffffff;
 }
 
 .cta-ghost:hover {
     color: #ffffff;
-    background: #a2abab;
+    background: #56565f;
 }
 
 #banner {
