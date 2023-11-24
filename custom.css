@@ -95,10 +95,11 @@ button {
 #price-table {
     padding-top: 4rem !important;
     padding-bottom: 4rem !important;
+    background: #a2abab;
 }
 
 #price-table__premium {
-    background: #192440;
+    background: #56565f;
     color: #ffffff;
 }
 
