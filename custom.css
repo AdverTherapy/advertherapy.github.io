@@ -45,13 +45,13 @@ button {
 }
 
 .cta-blue {
-    background: #192440;
+    background: #56565f;
     color: #ffffff;
 }
 
 .cta-blue:hover {
     color: #ffffff;
-    background: #121a2e;
+    background: #56565f;
 }
 
 .cta-ghost {
