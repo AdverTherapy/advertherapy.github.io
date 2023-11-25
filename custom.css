@@ -35,33 +35,34 @@ button {
 }
 
 .cta-green {
-    background: #56565f;
+    background: #105ba4;
     color: #ffffff;
 }
 
 .cta-green:hover {
     color: #ffffff;
-    background: #56565f;
+    background: #105ba4;
 }
 
 .cta-blue {
-    background: #56565f;
+    background: #105ba4;
     color: #ffffff;
 }
 
 .cta-blue:hover {
     color: #ffffff;
-    background: #56565f;
+    background: #105ba4;
 }
 
 .cta-ghost {
-    border: 2px solid #56565f !important;
+    border: 2px solid #105ba4 !important;
     color: #ffffff;
+    background: #105ba4;
 }
 
 .cta-ghost:hover {
     color: #ffffff;
-    background: #56565f;
+    background: #105ba4;
 }
 
 #banner {
@@ -84,22 +85,22 @@ button {
 }
 
 #feature-first {
-    background: linear-gradient(180deg, #ffffff 55%, #a2abab 0);
+    background: linear-gradient(175deg, #ffffff 55%, #1981e8 0);
 }
 
 #feature-last {
-    background: #a2abab;
+    background: #1981e8;
 }
 
 /********** price table **********/
 #price-table {
     padding-top: 4rem !important;
     padding-bottom: 4rem !important;
-    background: #a2abab;
+    background: #7bb7f2;
 }
 
 #price-table__premium {
-    background: #56565f;
+    background: #1981e8;
     color: #ffffff;
 }
 
