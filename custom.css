@@ -85,11 +85,11 @@ button {
 }
 
 #feature-first {
-    background: linear-gradient(178deg, #ffffff 55%, #1981e8 0);
+    background: linear-gradient(178deg, #ffffff 55%, #6da8e2 0);
 }
 
 #feature-last {
-    background: #1981e8;
+    background: #6da8e2;
 }
 
 /********** price table **********/
@@ -100,8 +100,9 @@ button {
 }
 
 #price-table__premium {
-    background: #1981e8;
+    background: #6da8e2;
     color: #ffffff;
+    padding-bottom: 4rem;
 }
 
 #price-table ul li {
