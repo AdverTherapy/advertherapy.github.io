@@ -100,9 +100,19 @@ button {
 }
 
 #price-table__premium {
-    background: #6da8e2;
+    background: #4096ed;
     color: #ffffff;
     padding-bottom: 4rem;
+}
+
+#price-table__standard {
+    background: #52a0ee;
+    color: #ffffff;
+}
+
+#price-table__elite {
+    background: #2e8deb;
+    color: #ffffff;
 }
 
 #price-table ul li {
